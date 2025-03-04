@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<style>
+  body {
+    margin: 0px auto;
+    padding: 0 10px;
+    background-image:url('backgroundforpaintings.png');
+    color: white;
+  }
+  h1{
+    color: black;
+  }
+  h2{
+    color: white;
+  }
+  ul {
+    list-style-type: none;
+    font-weight: bold;
+  }
+  h3{
+    font-weight: normal;
+  }
+  article{
+    background-color: black;
+    margin: 10px; 
+    padding: 10px; 
+    border-radius: 5px;
+    width: 900px;
+  }
+</style>
+<body>
+  <p><a href="paintings.html">back</a></p>
+  <article>
+      <p><img src="painting74.jpeg" width="500px"> Blue Hair<br>
+1.5 x 2 ft<br>
+oil paint and spackle<br>
+2024</p>
+    <p><img src="painting66.jpeg" width="600px"> Writing<br>
+1 x 1 ft<br>
+oil paint, charcoal, glue, found fabric sheet<br>
+2024</p>
+    <p><img src="painting57.jpeg" width="400px"> Thrown Out<br>
+1.5 x 3 ft<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting14.jpg" width="400px"> Baker’s Dozen<br>
+4 x 5 ft<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting79.jpeg" width="700px"> Green Tablet<br>
+9 x 12 inches<br>
+oil paint<br>
+2024</p> 
+    <p><img src="painting15.jpg" width="700px"> Cigerette<br>
+2.5 x 5 ft<br>
+oil paint & paper pulp<br>
+2024</p>
+    <p><img src="painting37.jpeg" width="500px"> Billie as Freddie<br>
+10 x 12 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting81.jpeg" width="500px"> Tool Shadow<br>
+12 x 14 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting90.png" width="500px"> UTI<br>
+12 x 14 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting19.jpg" width="700px"> School Series<br>
+4 x 2 ft<br>
+oil paint on 2 pieces of wood<br>
+2024</p>
+    <p><img src="painting80.jpg" width="700px"> Raindrop<br>
+10 x 12 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting84.jpeg" width="500px"> Frog Man<br>
+9 x 12 inches<br>
+acrylic, tempera, oil paint<br>
+2024</p>
+    <p><img src="painting113.jpeg" width="500px"> Nude Model<br>
+9 x 15 inches<br>
+oil paint on paper<br>
+2024</p>
+    <p><img src="painting114.jpeg" width="500px"> Fork on Chalkboard<br>
+9 x 12 inches<br>
+chalkboard paint<br>
+2024</p>
+    <p><img src="painting115.jpeg" width="500px"> Reverse Horse Shadow<br>
+27 x 13 inches<br>
+trace monotype & oil paint<br>
+2024</p>
+    <p><img src="painting116.jpeg" width="500px"> Snot<br>
+9 x 12 inches<br>
+oil paint, clay from Big River quarry, galkyd, plaster, glue<br>
+2024</p>
+    <p><img src="painting82.jpeg" width="500px"> Spiral<br>
+16 x 12 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting109.jpeg" width="500px"> Light Blue Family<br>
+9 x 12 inches<br>
+oil paint & oil stick<br>
+2024</p>
+    <p><img src="painting111.jpeg" width="500px"> Baby Alice<br>
+18 x 24 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting110.jpeg" width="500px"> Rafe at Point St<br>
+12 x 18 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting83.jpeg" width="500px"> Klaus Nomi<br>
+2 x 3 ft<br>
+oil paint, matte varnish, spackle<br>
+2024</p>
+    <p><img src="painting112.jpeg" width="500px"> Klaus Jr.<br>
+6 x 10 inches<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting23.jpg" width="350px"> Two Beauties<br>
+3 x 5 ft<br>
+oil paint<br>
+2024</p>
+    <p><img src="painting85.jpeg" width="400px"> Ms. Weissman<br>
+17.5 x 29 inches<br>
+oil paint<br>
+2024</p>
+  </article>
+ <p><a href="paintings.html">back</a></p>
+</body>
